@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jahangirabbas.com/sitemap.xml 
+Sitemap: https://jahangirabbas.com/sitemap.xml
